@@ -1,4 +1,5 @@
 # Stock Price Prediction using Polynomial Regression
+RUN https://stockpredictionplyregression-3ezmjtf3vvlappgckm3ajws.streamlit.app/
 
 This Streamlit web application predicts stock prices for the next 30 days using **Polynomial Regression**. The user inputs a stock ticker, and the app retrieves historical stock data, applies polynomial regression, and visualizes future price predictions.
 
